@@ -44,3 +44,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+"Download the zip folder of the project and once downloaded unzip it and open in vs code editor, now run the  " 
+"Download the zip folder of the project and once downloaded unzip it and open in vs code editor, now run the npm install command once it's done you can run the command npm run, this starts the project in local. Please note that if npm install giving error about dependencies then run the command npm install --legacy-peer-deps " 
